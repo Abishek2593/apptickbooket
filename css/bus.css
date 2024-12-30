@@ -3,7 +3,7 @@
 }
 #banner_container{
     height: 40vh;
-    background-image: url('/assets/images/banner6.jpg');
+    background-image: url('assets/images/banner6.jpg');
     background-repeat: no-repeat;
     background-position: 10% 90%;
     background-size: cover;
